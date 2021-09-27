@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 password.txt
 diabetic_data.csv
+CUST_ORDER_OUTPUT2.utf8
+CUST_ORDER_OUTPUT2.utf8.csv
 
 # C extensions
 *.so
